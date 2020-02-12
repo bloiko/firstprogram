@@ -17,5 +17,6 @@ public class SimpleCalculatorApp {
         }
         System.out.print(result);
         int d;
+        int f;
     }
 }
